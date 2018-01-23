@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="name">Nombre</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="calcularImc">Calcular IMC</string>
+    <string name="recalcular">Recalcular</string>
+    <string name="sitioWeb">Sitio Web</string>
+</resources>
